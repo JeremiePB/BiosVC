@@ -1,0 +1,30 @@
+{
+  "BiosCatalog": {
+    "Manufacturer": "TEMPLATE",
+    "Models": {
+      "Model": "ModelName",
+      "Version": "1.0.0",
+      "Path": "./",
+      "Created": "2001-01-01",
+      "Modified": "2000-01-01"
+    }
+  },
+  {
+    "Manufacturer": "HP",
+    "Models": {
+      "Model": "ModelName",
+      "Version": "1.0.0",
+      "Path": "./",
+      "Created": "2001-01-01",
+      "Modified": "2000-01-01"
+    },
+    {
+      "Model": "ModelName",
+      "Version": "1.0.0",
+      "Path": "./",
+      "Created": "2001-01-01",
+      "Modified": "2000-01-01"
+    }
+  }
+  
+}
